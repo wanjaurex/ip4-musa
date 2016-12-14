@@ -1,0 +1,50 @@
+body {
+    background-image: url("../images/animated-gifs-of-fighting-game-bground.jpg");
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+.display-area1 {
+    margin-left: 50px;
+}
+
+.display-area2 {
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.display-area1 {
+    margin-left: 50px;
+}
+
+.display-area2 {
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.dice-roll-player1 {
+    margin-left: 20px;
+    margin-top: 100px;
+}
+
+.dice-roll-player2 {
+    margin-left: 20px;
+    margin-top: 100px;
+}
+
+.player-color {
+    background-color: #5bc0de;
+    width: auto;
+    height: 300px;
+}
+
+.jumbotron {
+    width: auto;
+    height: 400px;
+}
